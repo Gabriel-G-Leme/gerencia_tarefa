@@ -1,2 +1,2 @@
-# gerencia_tarefa
-Repositorio para aulas de metodos ageis
+# Gerencia_tarefa
+Repositorio criado para o projeto da aula de métodos ágeis - Semi-presencial
